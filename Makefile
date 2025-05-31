@@ -1,4 +1,4 @@
-tests:
+testes:
 	mvn test
 
 build:
