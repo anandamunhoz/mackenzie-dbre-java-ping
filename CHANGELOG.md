@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/anandamunhoz/mackenzie-dbre-java-ping/compare/v1.0.0...v1.1.0) (2025-06-14)
+
+
+### Features
+
+* alteração da ci ([46d2ccb](https://github.com/anandamunhoz/mackenzie-dbre-java-ping/commit/46d2ccb3e383851a5b4679d8ff972ae95a501fb1))
+* atualização do cd ([0025488](https://github.com/anandamunhoz/mackenzie-dbre-java-ping/commit/00254887472965a9d53e158d647f585a323b6a6c))
+
 ## 1.0.0 (2025-06-14)
 
 
